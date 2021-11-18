@@ -1,4 +1,4 @@
-# Team Hulk Project 2
+# Flamengo
 
 <h1>Group Name</h1>  - <b>Team HULK</b>
 
@@ -24,7 +24,7 @@ This application was created Satyam, Hanna, Andy, Natalia and Yaze
 <li>Hanna - Test Validation/Model/Frontend JS/</li>
 <li>Natalia - HTML Routes/API Routes/Frontend JS</li>
 <li>Andy - User Login/Model/Controllers/Chat</li>
-<li>Yaze - HTML/CSS</li>
+<li>Yaze - HTML/CSS/Frontend JS</li>
 <li>Satyam - Models/Controllers/User Login/Chat/Team Lead </li>
 </ul>
 
